@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "02B381EF-28CA-48E1-AC30-81E60EE23761"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "932601CF-154A-43C1-A90A-71C50C657C5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Advice Swift/RequestData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getData(requestUrl:onSuccess:onFailed:onLoading:onFinally:requestMethod:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "932601CF-154A-43C1-A90A-71C50C657C5B - 10bf2cb4df9f52e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Advice_Swift.RequestData.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(requestUrl: Swift.String, onSuccess: (&#x3c4;_0_0) -&gt; (), onFailed: (Swift.Error) -&gt; (), onLoading: () -&gt; (), onFinally: Swift.Optional&lt;() -&gt; ()&gt;, requestMethod: Advice_Swift.RequestMethod) -&gt; ()"
+                  moduleName = "Advice Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/swift-app/Advice%20Swift/Advice%20Swift/RequestData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "932601CF-154A-43C1-A90A-71C50C657C5B - 61446123bb55f201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Advice_Swift.RequestData.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(requestUrl: Swift.String, onSuccess: (&#x3c4;_0_0) -&gt; (), onFailed: (Swift.Error) -&gt; (), requestMethod: Advice_Swift.RequestMethod) -&gt; ()"
+                  moduleName = "Advice Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/swift-app/Advice%20Swift/Advice%20Swift/RequestData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "972">
+               </Location>
+               <Location
+                  uuid = "932601CF-154A-43C1-A90A-71C50C657C5B - 10bf2cb4df9f54f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Advice_Swift.RequestData.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(requestUrl: Swift.String, onSuccess: (&#x3c4;_0_0) -&gt; (), onFailed: (Swift.Error) -&gt; (), onLoading: () -&gt; (), onFinally: Swift.Optional&lt;() -&gt; ()&gt;, requestMethod: Advice_Swift.RequestMethod) -&gt; ()"
+                  moduleName = "Advice Swift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/swift-app/Advice%20Swift/Advice%20Swift/RequestData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "992">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B46FD003-EAA5-4635-9322-5BF9BF22EC08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Advice Swift/RequestData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "getData(requestUrl:onSuccess:onFailed:onLoading:onFinally:requestMethod:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3949ADCF-69AE-4D5C-AB22-D3C9DD0DA81B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Advice Swift/SearchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "searchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "205EA7F9-F549-4491-B8CE-B0FA09C9BDC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Advice Swift/RequestData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getData(requestUrl:onSuccess:onFailed:onLoading:onFinally:requestMethod:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
