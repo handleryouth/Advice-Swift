@@ -19,7 +19,6 @@ struct SearchView: View {
     }
     
     func searchData() {
-        print("search text \(searchText)")
         if(searchText != "") {
             print("running")
             RequestData.getData(requestUrl: "https://api.adviceslip.com/advice/search/\(searchText)", onSuccess: {(decodedData: AdviceList) in self.adviceData = decodedData} , onFailed:   {Error in print("error in here \(Error)")}, onLoading: {self.loading = true}, onFinally: {self.loading = false}, requestMethod: RequestMethod.get)
